@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Explain Agile to a Waterfall Organization"
 date:   2016-08-28 11:24:00
-permalink: /Agile-to-Waterfall_Orgs.html
+permalink: /Agile-to-Waterfall-Orgs.html
 ---
 <span class="image"><img src="/images/Agile.png" style="width: 100%;" alt="Agile Development"></span>
 
