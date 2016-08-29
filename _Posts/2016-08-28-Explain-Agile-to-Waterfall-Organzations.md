@@ -3,12 +3,15 @@ layout: post
 title:  "How to Explain Agile to a Waterfall Organization"
 date:   2016-08-28 11:24:00
 permalink: /Agile-to-Waterfall-Orgs.html
+category: AgileDevelopment
+tags: Agile, Waterfall, MVP, Scrum, Kanban, Development, Software, iterate
+published: true
 ---
-<span class="image"><img src="/images/Agile.png" style="width: 100%;" alt="Agile Development"></span>
+<img src="/images/Agile.png" style="width: 100%;" alt="Agile Development">
 
 Agile is one of those industry buzz-words that everyone seems to need to know.  Whether you’re looking for a job and find yourself using that buzzword on your resume to land an interview, or you’re trying to explain why your software dev project is behind schedule and over budget, I can nearly guarantee one thing - we’re all saying the word, but we don’t really know what it means.
 
-Let’s try a little word association - when I say Agile, tell me the first word that comes to mind.  Is it “iterative?”  How about “scope?”  Maybe “PM,” “scrum,” or “quick?”  
+Let’s try a little word association - when I say Agile, tell me the first word that comes to mind.  Is it “iterative?”  How about “scope?”  Maybe “PM,” “Scrum,” or “quick?”  
 
 I can tell you from the many client interactions I’ve had on the topic, most people say that Agile is “Well, it’s not waterfall.  I’ve tried it but it doesn’t work.”  If you’re lucky, you might get a client that says “I like Agile, but the people around here don’t.  They could never get used to that way of things.”
 
@@ -31,8 +34,11 @@ The key to Agile, and getting your client to trust you and the process, is to sh
 
 The key to helping your client understand Agile development is to focus on these values, because they’re values that we all, well, value - from the board of directors, all of the way down to the average joe that makes the business run.  We can all get behind the idea that software works for ME, not the other way around
 
-Next, let’s check out this diagram and take a look at why we value these things, keeping in mind that step 4 assumes we get where we wanted to get in the end, Waterfall or Agile agnostic.
+Next, let’s check out this diagram and take a look at why we value these things, keeping in mind that step 4 assumes we get where we wanted to get in the end, framework agnostic.
 
-<span class="image"><img src="/images/ext.jpeg" style="width: 75%;" align="middle" alt="MVP Diagram"></span>
+<img src="/images/ext.jpeg" style="width: 75%;" align="middle" alt="MVP Diagram">
 
 By assuming things will change and by focusing on functioning code, we can get our product out to the user to test, adjust, and refactor before the last-minute rush to go live (See Usability Testing posts for more info).  Each step along the way, we can adapt and adjust, building the best product we can instead of sticking to our guns at the beginning with the limited knowledge we originally had.  Instead of a grandiose plan of every feature we can think of and attempting to add a dollar sign quote to its cost, which we are REALLY bad at doing as humans (See "Agile Estimating and Planning" by Mike Cohn), we can build exactly what we need, prioritize our spending to optimize the return on our development, and get the whole organization bought into the effort simultaneously.  It’s an incredibly powerful process and partnership with the development team and a plan that any client can get behind.
+<!---
+Feel free to [get the PDF]({{ site.url }}/assets/UXtesting1.pdf) of this post directly.
+--->

@@ -2,6 +2,9 @@ This site was created by Joshua Coffie and Caleb Coffie and designed to host blo
 related to Management Consulting and Software Development lessons learned.  Thank you
 for taking the time to visit!
 
+
+*~*~*~*~*~*~*~*
+
 Credits:
 
 	Originating Template:
