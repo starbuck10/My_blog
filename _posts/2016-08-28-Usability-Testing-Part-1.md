@@ -30,10 +30,6 @@ The trouble is that instead of users blaming the designers and developers of the
 I had a professor once, <a href="https://www.extension.harvard.edu/faculty-directory/david-s-platt">David S. Platt</a>, who said, "Always remember - you are not your user and your user is not you."  He elaborates further in his book "Why Software Sucks" by saying, "Unless you're writing programs for a bunch of burned out computer geeks, your user isn't you. ... This is very hard to get through somebody's head; it's very hard to get rid of this notion that what you like your user is going to like... Again, your user is not you."
 
 Throughout this series, we're going to visit why the concept of "Know Thy User" is so important and why it should be at the forefront of our design and development.
-
-Share this blogpost! <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
 <!---
 Feel free to [get the PDF]({{ site.url }}/assets/UXtesting1.pdf) of this post directly.
 --->

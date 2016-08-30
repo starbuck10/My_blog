@@ -39,6 +39,8 @@ Next, let’s check out this diagram and take a look at why we value these thing
 <img src="/images/ext.jpeg" style="width: 75%;" align="middle" alt="MVP Diagram">
 
 By assuming things will change and by focusing on functioning code, we can get our product out to the user to test, adjust, and refactor before the last-minute rush to go live (See Usability Testing posts for more info).  Each step along the way, we can adapt and adjust, building the best product we can instead of sticking to our guns at the beginning with the limited knowledge we originally had.  Instead of a grandiose plan of every feature we can think of and attempting to add a dollar sign quote to its cost, which we are REALLY bad at doing as humans (See "Agile Estimating and Planning" by Mike Cohn), we can build exactly what we need, prioritize our spending to optimize the return on our development, and get the whole organization bought into the effort simultaneously.  It’s an incredibly powerful process and partnership with the development team and a plan that any client can get behind.
+
+Share this blogpost! <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <!---
 Feel free to [get the PDF]({{ site.url }}/assets/UXtesting1.pdf) of this post directly.
 --->
