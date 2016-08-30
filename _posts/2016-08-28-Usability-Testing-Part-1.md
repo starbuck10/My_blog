@@ -31,7 +31,8 @@ I had a professor once, <a href="https://www.extension.harvard.edu/faculty-direc
 
 Throughout this series, we're going to visit why the concept of "Know Thy User" is so important and why it should be at the forefront of our design and development.
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Share this blogpost! <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 <!---
 Feel free to [get the PDF]({{ site.url }}/assets/UXtesting1.pdf) of this post directly.
