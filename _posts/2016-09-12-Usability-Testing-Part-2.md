@@ -21,7 +21,7 @@ I think the answer is no.
 
 And I imagine a comment like that is going to be tough for many people to hear.  With all of the effort put behind designing software, building it, selling it, improving it, and using it, if there was an easier way, wouldn’t it have already been discovered?
 
-The definition of usability, as outlined by Steve Krug in his book “Don’t Make me Think (Check it out <a href="https://www.amazon.com/gp/product/0321965515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=joshuacoffie1-20&linkId=d5e81f077e38871951a8cd85e3bec877”>here!</a>), means “making sure that something works well: that a person of average (or even below average) ability and experience can use the thing—whether it’s a Web site, a fighter jet, or a revolving door—for its intended purpose without getting hopelessly frustrated.”  
+The definition of usability, as outlined by Steve Krug in his book “Don’t Make me Think (Check it out <https://www.amazon.com/gp/product/0321965515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=joshuacoffie1-20&linkId=d5e81f077e38871951a8cd85e3bec877>here!), means “making sure that something works well: that a person of average (or even below average) ability and experience can use the thing—whether it’s a Web site, a fighter jet, or a revolving door—for its intended purpose without getting hopelessly frustrated.”  
 
 Does that ring true to anyone?  Ever use software, or a product, that was hopelessly frustrating?  Why was it frustrating?  Would you have found it less frustrating if you had to take a two week course to learn how to use it?
 
