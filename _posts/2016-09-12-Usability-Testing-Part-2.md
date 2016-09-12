@@ -27,7 +27,7 @@ Does that ring true to anyone?  Ever use software, or a product, that was hopele
 
 David Platt, a professor of mine, loves this tagline (Read more about it in his [book](https://www.amazon.com/gp/product/0321466756/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321466756&linkCode=as2&tag=joshuacoffie1-20&linkId=b7648e32ce1512fece728efe62529154)), which he dubs, “Platt’s First, Last, and Only Law of User Experience Design:”
 
-<****>Know thy user for he is not thee.<****>
+<b>Know thy user for he is not thee.</b>
 
 In essence - those that are designing and building the product are not necessarily those that the product is designed for.  So why should the product be designed as if they were?  
 
