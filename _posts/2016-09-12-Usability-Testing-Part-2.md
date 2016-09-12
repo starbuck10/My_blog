@@ -7,7 +7,7 @@ category: UsabilityTesting
 tags: usability, testing, UX, design
 published: true
 ---
-<img src="/images/usable.svg" style="width: 100%;" alt="Usable is Greater Than More Functionality">
+<img src="/images/usable.jpg" style="width: 100%;" alt="Usable is Greater Than More Functionality">
 
 <b>“Know thy user, for he is not thee.”</b>
 
