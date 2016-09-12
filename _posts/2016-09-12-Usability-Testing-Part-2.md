@@ -35,13 +35,13 @@ Think about it - how many times have you said, or heard said, “I think this is
 
 See if you’ve ever heard this conversation before -
 
-<b>PM or Scrum Master: “So, why did you make it look like that?”
+PM or Scrum Master: “So, why did you make it look like that?”
 
 Developer/Architect: “It’s how this tool works.  I mean, look how easy it is to use - you just do this and this and this. ”
 
 PM or Scrum Master:  “It’s kind of confusing - is there an easier way to do it?  How much time would it take to change it up?”
 
-Developer: “I’m not sure we can.”</b> - or - <b> “It’d be redoing everything…  If we do, we’ll fall behind.  We can just show them how to do it and it’ll be fine.  Every piece of software has a learning curve.”</b>
+Developer: “I’m not sure we can.” - or - “It’d be redoing everything…  If we do, we’ll fall behind.  We can just show them how to do it and it’ll be fine.  Every piece of software has a learning curve.”
 
 Now, what if we approached the product from a different angle - what if, from the very beginning, we asked the question, <b>“If we were the user Jenny, how would she use the software?  Is this something she would like?  Is there a more intuitive way to build this?”</b>
 
