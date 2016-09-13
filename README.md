@@ -1,2 +1,2 @@
-# My_Blog
-My_Blog
+# Joshua Coffie's Blog
+Coffie_blog
