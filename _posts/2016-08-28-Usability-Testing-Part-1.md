@@ -7,7 +7,7 @@ category: UsabilityTesting
 tags: usability, testing, UX, design
 published: true
 ---
-<img src="/images/Usability_Testing.jpg" style="width: 100%;" alt="Agile Development">
+<img src="/images/Usability_Testing.jpg" style="width: 50%;" alt="Agile Development">
 
 So what exactly is usability testing?  And how does it compare with Design or User Acceptance Testing?  Is there a process I should follow to make sure I'm doing it right?  
 
