@@ -27,7 +27,7 @@ How many times have you heard this statement: "All our users need is a quick wal
 
 The trouble is that instead of users blaming the designers and developers of the software for not making the product usable enough, they blame their own incompetency and, ultimately, don't use it anymore.  Just imagine how many users you're losing because they find your product not very intuitive.
 
-I had a professor once, <a href="https://www.extension.harvard.edu/faculty-directory/david-s-platt">David S. Platt</a>, who said, "Always remember - you are not your user and your user is not you."  He elaborates further in his book "Why Software Sucks" by saying, "Unless you're writing programs for a bunch of burned out computer geeks, your user isn't you. ... This is very hard to get through somebody's head; it's very hard to get rid of this notion that what you like your user is going to like... Again, your user is not you."
+I had a professor once, [David S. Platt](https://www.extension.harvard.edu/faculty-directory/david-s-platt), who said, "Always remember - you are not your user and your user is not you."  He elaborates further in his book "Why Software Sucks" by saying, "Unless you're writing programs for a bunch of burned out computer geeks, your user isn't you. ... This is very hard to get through somebody's head; it's very hard to get rid of this notion that what you like your user is going to like... Again, your user is not you."
 
 Throughout this series, we're going to visit why the concept of "Know Thy User" is so important and why it should be at the forefront of our design and development.
 
