@@ -76,3 +76,5 @@ Here are some ways that we can get our team on board and always place the users 
 4. Conduct usability testing sessions with users who are representative of those who will be using the product.  There is only so much role playing you can do - get direct feedback from your users and get it often.
 
 5. Never accept “this is the way I would do it” or “it looks cool” as justification for how something is designed and developed.
+
+Share this blogpost! <a href="https://twitter.com/share" class="twitter-share-button" data-via="UXDesignPro" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
