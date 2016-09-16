@@ -7,7 +7,7 @@ category: Innovation
 tags: Innovation, Psychological Security, Google, Alphabet, Disruptive
 published: true
 ---
-<img src="/images/innovate.png" style="width: 100%;" alt="Innovation Image">
+<img src="/images/innovation2.png" style="width: 100%;" alt="Innovation Image">
 
 <b>Beginning Your Innovation Journey</b>
 
