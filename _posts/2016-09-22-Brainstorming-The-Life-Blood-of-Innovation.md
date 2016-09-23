@@ -7,7 +7,7 @@ category: Innovation
 tags: Innovation, Brainstorming, Creativity, IDEO, Core Protocols, Psychological Safety,
 published: true
 ---
-<img src="/images/lightbulb.png" style="width: 50%;" alt="Brainstorming">
+<img src="/images/lightbulb.png" align= "center" style="width: 50%;" alt="Brainstorming">
 
 The premise of innovation is a love of discovery - identifying new ways to do things, new products to wow the world, building new models to explain why things work the way they do.  The antithesis of innovation is sameness and mediocrity; doing things the way we’ve always done them.  I’m sure you’ve heard the quote attributed to Albert Einstein(and arguably, he probably never said it), “Insanity: doing the same thing over and over again and expecting different results."  Regardless of the quote's attribution, we simply cannot do things better tomorrow if we're stuck in the world of yesterday.  And thinking otherwise is truly insanity.
 
