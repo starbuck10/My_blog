@@ -5,7 +5,7 @@ date:   2016-09-22 17:30:00
 permalink: /Brainstorming-Lifeblood-of-Innovation.html
 category: Innovation
 tags: Innovation, Brainstorming, Creativity, IDEO, Core Protocols, Psychological Safety,
-published: false
+published: true
 ---
 <img src="/images/lightbulb.png" style="width: 100%;" alt="Brainstorming">
 
