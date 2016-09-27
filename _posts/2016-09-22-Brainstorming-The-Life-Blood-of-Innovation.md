@@ -48,7 +48,7 @@ Our first reaction to an idea is to see if it has merit and to put it through th
 
 <b>3. “That’s not what users want / That's not how they use our products.”</b>
 I can't speak to this pitfall enough.  Users are human and change their wants, needs, and desires often - you can't expect them, or their business objectives, to stay the same forever.  Spend some time in the trenches with your users and observe what they do.  In the words of Tom Kelley,
-*"Successful innovations recognize that people don't always do the 'right' thing or make the necessary leaps to bridge the gap between familiar and genuinely new ideas.  Widespread adoption often takes time.  Astute observation is one way to shorten that cycle and make tradeoffs that users will accept[45]."*
+_"Successful innovations recognize that people don't always do the 'right' thing or make the necessary leaps to bridge the gap between familiar and genuinely new ideas.  Widespread adoption often takes time.  Astute observation is one way to shorten that cycle and make tradeoffs that users will accept[45]."_
 
 <b>4. Letting the boss lead </b>
 Brainstorming sessions aren't the venue for the team to praise the boss' ideas or to give the illusion of employees having a voice - bosses that speak up first will inevitably taint the discussion and force conversation to run a very confined and intentional direction.  Innovation and creativity must be allowed to run its course without these factors coming into play.  Bosses, empower your team and reward those that are high-performers.
