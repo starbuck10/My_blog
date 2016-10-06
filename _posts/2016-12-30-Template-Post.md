@@ -2,7 +2,7 @@
 layout: post
 title:  "This is the title"
 date:   2016-12-31 12:00:00
-permalink: /post_title.html
+permalink: /post-title.html
 category:
 tags:
 published: false
