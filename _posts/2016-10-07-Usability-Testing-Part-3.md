@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "This is the title"
-date:   2016-12-31 12:00:00
-permalink: /post_title.html
-category:
-tags:
+title:  "Properly Leveraging the User Persona"
+date:   2016-10-07 12:00:00
+permalink: /user-personas.html
+category: Usability
+tags: UX, user-personas, design
 published: false
 ---
 
