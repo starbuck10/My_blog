@@ -4,7 +4,7 @@ title:  "Properly Leveraging the User Persona"
 date:   2016-10-07 12:00:00
 permalink: /user-personas.html
 category: Usability
-tags: UX, user-personas, design
+tags: UX, user-personas, design, innovation
 published: false
 ---
 
@@ -78,6 +78,5 @@ These personas can also be used to justify decisions of prioritization and desig
 
 The user persona is a living and breathing document that should be updated throughout the development process.  As new information is discovered about users through usability testing, these trends and discoveries should further enhance our understanding of the user we're designing for.    
 
-3 images to draft up - main image for post, process flow image, image of completed persona (opt.)
 
 Share this blogpost! <a href="https://twitter.com/share" class="twitter-share-button" data-via="UXDesignPro" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
