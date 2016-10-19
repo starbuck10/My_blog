@@ -8,7 +8,7 @@ tags: UX, user-personas, design, innovation
 published: true
 ---
 
-<img src="/images/some_image.png" style="width: 100%;" alt="alt_title">
+<img src="/images/user_persona.png" style="width: 100%;" alt="alt_title">
 
 <b>Properly Leveraging the User Persona</b>
 
