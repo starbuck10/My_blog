@@ -18,7 +18,7 @@ Understanding and building for users is the core principle of usability driven d
 
 The process of developing a user persona is fairly simple and consists of 3 parts: research, analysis, and development.  The research phase involves gathering pertinent data from users, academic/industry research, and behavioral/psychological studies that we use to build our fictitious user.  The analysis phase incorporates that research and user behavioral data with the wants and needs of our target user, forming the basis of information from which we craft our user persona.  The final phase, development, takes those assumptions and facts about our user base and, applying a bit of design and creative thinking, crafts our fictitious user(s), much in the same way that an author crafts their characters.
 
-<img src="/images/persona_process.png" style="width: 100%;" alt="alt_title">
+<img src="/images/user_persona_process.png" style="width: 100%;" alt="alt_title">
 
 <b>Research</b>
 
